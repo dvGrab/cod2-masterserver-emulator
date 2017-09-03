@@ -1,0 +1,16 @@
+{"level":"info","message":"[INFO] Server has been started on 0.0.0.0:20710!","timestamp":"2017-01-22T13:06:32.783Z"}
+{"level":"info","message":"[RECV] Server 127.0.0.1:28960 has send a heartbeat!","timestamp":"2017-01-22T13:06:54.186Z"}
+{"level":"info","message":"[UPDATE] Server 'Masterserver Test' has been added to the list!","timestamp":"2017-01-22T13:06:54.195Z"}
+{"level":"info","message":"[INFO] Server has been started on 0.0.0.0:20710!","timestamp":"2017-01-22T13:06:59.683Z"}
+{"level":"info","message":"[RECV] Server 127.0.0.1:28960 has send a heartbeat!","timestamp":"2017-01-22T13:07:02.828Z"}
+{"level":"info","message":"[UPDATE] Server 'Masterserver Test' has been added to the list!","timestamp":"2017-01-22T13:07:02.833Z"}
+{"level":"info","message":"[INFO] Server has been started on 0.0.0.0:20710!","timestamp":"2017-01-22T13:07:37.022Z"}
+{"level":"info","message":"[RECV] Server 127.0.0.1:28960 has send a heartbeat!","timestamp":"2017-01-22T13:10:02.830Z"}
+{"level":"info","message":"[UPDATE] Server 'Masterserver Test' has been added to the list!","timestamp":"2017-01-22T13:10:02.834Z"}
+{"level":"info","message":"[UPDATE] Server 'Masterserver Test' has been update!","timestamp":"2017-01-22T13:11:44.924Z"}
+{"level":"info","message":"[RECV] Server 127.0.0.1:28960 has send a heartbeat!","timestamp":"2017-01-22T13:13:02.828Z"}
+{"level":"info","message":"[UPDATE] Server 'Masterserver Test' has been update!","timestamp":"2017-01-22T13:13:02.833Z"}
+{"level":"info","message":"[RECV] Server 127.0.0.1:28960 has send a heartbeat!","timestamp":"2017-01-22T13:16:02.825Z"}
+{"level":"info","message":"[UPDATE] Server 'Masterserver Test' has been update!","timestamp":"2017-01-22T13:16:02.830Z"}
+{"level":"info","message":"[RECV] Server 127.0.0.1:28960 has send a heartbeat!","timestamp":"2017-01-22T13:19:02.825Z"}
+{"level":"info","message":"[UPDATE] Server 'Masterserver Test' has been update!","timestamp":"2017-01-22T13:19:02.830Z"}
